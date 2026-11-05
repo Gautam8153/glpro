@@ -1,0 +1,26 @@
+# GLPro
+
+> GLPro is a Blood Sugar Support & Weight Management Supplement. GLPro is a dietary supplement built around one goal: helping your body keep glucose levels in a healthy range while supporting natural weight loss. Rather than a stimulant-driven fat burner, it takes a metabolic-support approach — supplying plant-based ingredients traditionally used to support healthy blood sugar balance alongside nutrients tied to insulin sensitivity and fat metabolism. It is sold as an easy-to-take capsule, intended for adults who want daily support for steadier energy, fewer sugar cravings and a metabolism that works with them instead of against them.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://glpro-797p.onrender.com/)
+- [What GLPro is](https://glpro-797p.onrender.com/what-is-product.html)
+- [How GLPro works](https://glpro-797p.onrender.com/how-it-works.html)
+- [GLPro ingredients, explained individually](https://glpro-797p.onrender.com/ingredients.html)
+- [GLPro benefits](https://glpro-797p.onrender.com/benefits.html)
+- [GLPro customer reviews](https://glpro-797p.onrender.com/reviews.html)
+- [GLPro frequently asked questions](https://glpro-797p.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying GLPro](https://glpro-797p.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at GLPro — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://glpro-797p.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using GLPro's own label as a real example of what to look for.
+- [GLPro: An Honest Review](https://glpro-797p.onrender.com/blog/glpro-honest-review.html): An honest look at GLPro — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Berberine vs Chromium: What Each Does In GLPro](https://glpro-797p.onrender.com/blog/berberine-vs-chromium.html): Berberine and Chromium are both in GLPro but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement GLPro](https://glpro-797p.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with GLPro as part of a blood sugar support & weight management routine.
+- [GLPro FAQ: Dosage, Timing, Who Should Skip It](https://glpro-797p.onrender.com/blog/glpro-faq.html): Common questions about GLPro — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://glpro-797p.onrender.com/terms.html)
+- [Privacy Policy](https://glpro-797p.onrender.com/privacy-policy.html)
+- [Disclaimer](https://glpro-797p.onrender.com/disclaimer.html)
+- [Refund Policy](https://glpro-797p.onrender.com/refund-policy.html)
+- [About Us](https://glpro-797p.onrender.com/about.html)
+- [Contact Us](https://glpro-797p.onrender.com/contact.html)

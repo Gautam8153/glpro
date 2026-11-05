@@ -1,2 +1,0 @@
-# glpro
-Static site
